@@ -1,0 +1,6 @@
+{
+  "name": "Afri Motion Lab",
+  "description": "A compact and efficient real-time transcription tool with a minimalist hardware-inspired design.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
